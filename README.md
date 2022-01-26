@@ -7,20 +7,20 @@
     </a>
 
 <!-- TODO add title, description & links -->
-  <p align="center">
-    PROJECT TITLE
+    <h2 align="center">PROJECT TITLE</h2>
     <br />
-    This is a description
-    <br />
-    <a href="#"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="#">View Demo</a>
-    ·
-    <a href="#">Report Bug</a>
-    ·
-    <a href="#">Request Feature</a>
-  </p>
+    <p align="center">
+        This is a description
+        <br />
+        <a href="#"><strong>Explore the docs »</strong></a>
+        <br />
+        <br />
+        <a href="#">View Demo</a>
+        ·
+        <a href="#">Report Bug</a>
+        ·
+        <a href="#">Request Feature</a>
+    </p>
 </p>
 
 
