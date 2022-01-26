@@ -1,12 +1,14 @@
 <!-- PROJECT LOGO -->
 <br />
+<!-- TODO update href and src to GitHub & Logo link -->
 <p align="center">
-    <!-- TODO update href and src to GitHub & Logo link -->
     <a href="#">
         <img src="#" alt="Logo" width="200" height="200">
     </a>
+</p>
 
 <!-- TODO add title, description & links -->
+<p align="center">
     <h2 align="center">PROJECT TITLE</h2>
     <br />
     <p align="center">
